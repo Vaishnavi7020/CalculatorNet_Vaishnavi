@@ -18,7 +18,7 @@ import org.testng.annotations.Test;
 
 			driver.manage().window().maximize();
 			driver.get("https://www.calculator.net");
-			Thread.sleep(5000);
+			Thread.sleep(6000);
 
 		}
 
