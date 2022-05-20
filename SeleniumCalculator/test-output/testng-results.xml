@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="58881" started-at="2022-05-20T12:45:09 IST" finished-at="2022-05-20T12:46:07 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="58881" started-at="2022-05-20T12:45:09 IST" finished-at="2022-05-20T12:46:07 IST">
+      <class name="calculatortest.Calculator1">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculatortest.Calculator1@27a8c74e]" name="setUp" is-config="true" duration-ms="11545" started-at="2022-05-20T12:45:09 IST" finished-at="2022-05-20T12:45:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyMultiplication()[pri:1, instance:calculatortest.Calculator1@27a8c74e]" name="verifyMultiplication" duration-ms="5827" started-at="2022-05-20T12:45:20 IST" finished-at="2022-05-20T12:45:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMultiplication -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:calculatortest.Calculator1@27a8c74e]" name="tearDown" is-config="true" duration-ms="927" started-at="2022-05-20T12:45:26 IST" finished-at="2022-05-20T12:45:27 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculatortest.Calculator1@27a8c74e]" name="setUp" is-config="true" duration-ms="9716" started-at="2022-05-20T12:45:27 IST" finished-at="2022-05-20T12:45:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyDivision()[pri:2, instance:calculatortest.Calculator1@27a8c74e]" name="verifyDivision" duration-ms="2731" started-at="2022-05-20T12:45:37 IST" finished-at="2022-05-20T12:45:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyDivision -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:calculatortest.Calculator1@27a8c74e]" name="tearDown" is-config="true" duration-ms="880" started-at="2022-05-20T12:45:39 IST" finished-at="2022-05-20T12:45:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculatortest.Calculator1@27a8c74e]" name="setUp" is-config="true" duration-ms="9324" started-at="2022-05-20T12:45:40 IST" finished-at="2022-05-20T12:45:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyAddition()[pri:3, instance:calculatortest.Calculator1@27a8c74e]" name="verifyAddition" duration-ms="3203" started-at="2022-05-20T12:45:50 IST" finished-at="2022-05-20T12:45:53 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddition -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:calculatortest.Calculator1@27a8c74e]" name="tearDown" is-config="true" duration-ms="851" started-at="2022-05-20T12:45:53 IST" finished-at="2022-05-20T12:45:54 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:calculatortest.Calculator1@27a8c74e]" name="setUp" is-config="true" duration-ms="9689" started-at="2022-05-20T12:45:54 IST" finished-at="2022-05-20T12:46:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifySubstraction()[pri:4, instance:calculatortest.Calculator1@27a8c74e]" name="verifySubstraction" duration-ms="3283" started-at="2022-05-20T12:46:03 IST" finished-at="2022-05-20T12:46:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySubstraction -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:calculatortest.Calculator1@27a8c74e]" name="tearDown" is-config="true" duration-ms="843" started-at="2022-05-20T12:46:07 IST" finished-at="2022-05-20T12:46:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- calculatortest.Calculator1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
